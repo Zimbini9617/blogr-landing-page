@@ -105,6 +105,13 @@ html {
   box-shadow: 0 0 15px 3px rgba(0, 0, 0, 0.4);
 }
 
+.header .navigation .site-nav li .dropdown-menu ul li a {
+  color: hsl(240, 0%, 56%);
+  transition: 0.5s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .header .navigation .site-nav li .dropdown-menu ul li a:hover {
   color: hsl(0, 0%, 5%);
 }
@@ -126,13 +133,6 @@ html {
 
 .header .navigation .site-nav li .dropdown-menu ul li:last-child {
   margin-bottom: 0;
-}
-
-.header .navigation .site-nav li .dropdown-menu ul li a {
-  color: hsl(240, 0%, 56%);
-  transition: 0.5s;
-  cursor: pointer;
-  text-decoration: none;
 }
 
 .header .navigation .register {
