@@ -244,17 +244,17 @@ html {
   position: relative;
 }
 
-.description-content-rightcolumn,
 .description,
 .description-content,
+.description-content-rightcolumn,
 .desktop-editor {
   width: 150%;
   position: relative;
 }
 
-.description-content-rightcolumn,
 .description,
 .description-content,
+.description-content-rightcolumn,
 .mobile-editor {
   display: none;
 }
