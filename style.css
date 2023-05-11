@@ -543,10 +543,6 @@ footer .attribution {
     margin-bottom: 1.5rem;
   }
 
-  .description-content-rightcolumn {
-    display: none;
-  }
-
   .description .description-content {
     flex-wrap: wrap;
   }
@@ -572,7 +568,6 @@ footer .attribution {
   }
 
   .description,
-  .description-content-rightcolumn,
   .mobile-editor {
     display: block;
     width: 110%;
