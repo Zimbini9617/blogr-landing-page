@@ -50,23 +50,11 @@ footer .footer-box ul li {
   position: relative;
 }
 
-footer .footer-box ul li a:hover {
-  text-decoration: underline;
-}
-
 footer .attribution a {
   text-decoration: none;
   color: hsl(0, 0%, 100%);
   font-family: "Ubuntu", sans-serif;
   font-weight: 400;
-}
-
-.header .navigation .site-nav li a {
-  text-decoration: none;
-  color: hsl(0, 0%, 100%);
-  cursor: pointer;
-  transition: 1s;
-  font-family: "Ubuntu", sans-serif;
 }
 
 footer .footer-box ul li a {
@@ -79,6 +67,18 @@ footer .footer-box ul li a {
   font-weight: 400;
 }
 
+footer .footer-box ul li a:hover {
+  text-decoration: underline;
+}
+
+.header .navigation .site-nav li a {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+  transition: 1s;
+  font-family: "Ubuntu", sans-serif;
+}
+
 .header .navigation .register li a {
   text-decoration: none;
   color: hsl(0, 0%, 100%);
@@ -86,10 +86,6 @@ footer .footer-box ul li a {
   font-weight: 700;
   font-size: 0.9rem;
   font-family: "Ubuntu", sans-serif;
-}
-
-footer .attribution a {
-  font-size: 0.9rem;
 }
 
 .mobilenav ul li a {
