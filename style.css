@@ -268,17 +268,17 @@ html {
   flex-basis: 50%;
 }
 
-.description
-  .description-content
-  .description-content-rightcolumn
-  .desktop-editor {
+.description,
+.description-content,
+.description-content-rightcolumn,
+.desktop-editor {
   width: 150%;
   position: relative;
 }
 
-.description
-  .description-content
-  .description-content-rightcolumn
-  .mobile-editor {
+.description,
+.description-content,
+.description-content-rightcolumn,
+.mobile-editor {
   display: none;
 }
