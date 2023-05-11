@@ -263,11 +263,6 @@ html {
   font-weight: 300;
 }
 
-.description .description-content .description-content-rightcolumn {
-  position: relative;
-  flex-basis: 50%;
-}
-
 .description-content-rightcolumn,
 .description,
 .description-content,
@@ -281,4 +276,9 @@ html {
 .description-content,
 .mobile-editor {
   display: none;
+}
+
+.description .description-content .description-content-rightcolumn {
+  position: relative;
+  flex-basis: 50%;
 }
