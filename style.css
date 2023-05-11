@@ -547,12 +547,14 @@ footer .attribution {
     display: none;
   }
 
-  .description-content {
-    display: none;
-  }
-
   .description .description-content {
     flex-wrap: wrap;
+  }
+
+  .description-content-rightcolumn {
+    display: block;
+    width: 110%;
+    margin-bottom: 1.5rem;
   }
 
   .description .description-content .description-content-rightcolumn {
