@@ -237,6 +237,12 @@ html {
   font-weight: 700;
 }
 
+.discription .description-content {
+  width: 150%;
+  position: relative;
+  display: none;
+}
+
 .description .description-content {
   width: 100%;
   display: flex;
@@ -244,16 +250,12 @@ html {
   position: relative;
 }
 
-.description,
-.description-content,
 .description-content-rightcolumn,
 .desktop-editor {
   width: 150%;
   position: relative;
 }
 
-.description,
-.description-content,
 .description-content-rightcolumn,
 .mobile-editor {
   display: none;
