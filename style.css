@@ -244,6 +244,21 @@ html {
   position: relative;
 }
 
+.description-content-rightcolumn,
+.description,
+.description-content,
+.desktop-editor {
+  width: 150%;
+  position: relative;
+}
+
+.description-content-rightcolumn,
+.description,
+.description-content,
+.mobile-editor {
+  display: none;
+}
+
 .description .description-content .description-content-leftcolumn {
   flex-basis: 50%;
 }
@@ -261,21 +276,6 @@ html {
   margin-bottom: 3rem;
   font-family: "Overpass", sans-serif;
   font-weight: 300;
-}
-
-.description-content-rightcolumn,
-.description,
-.description-content,
-.desktop-editor {
-  width: 150%;
-  position: relative;
-}
-
-.description-content-rightcolumn,
-.description,
-.description-content,
-.mobile-editor {
-  display: none;
 }
 
 .description .description-content .description-content-rightcolumn {
