@@ -269,16 +269,16 @@ html {
 }
 
 .description-content-rightcolumn,
-.description-content,
 .description,
+.description-content,
 .desktop-editor {
   width: 150%;
   position: relative;
 }
 
 .description-content-rightcolumn,
-.description-content,
 .description,
+.description-content,
 .mobile-editor {
   display: none;
 }
