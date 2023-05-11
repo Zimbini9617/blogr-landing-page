@@ -537,6 +537,12 @@ footer .attribution {
     margin-bottom: 2rem;
   }
 
+  .description-content {
+    display: block;
+    width: 110%;
+    margin-bottom: 1.5rem;
+  }
+
   .description-content-rightcolumn {
     display: none;
   }
@@ -564,7 +570,6 @@ footer .attribution {
   }
 
   .description,
-  .description-content,
   .description-content-rightcolumn,
   .mobile-editor {
     display: block;
