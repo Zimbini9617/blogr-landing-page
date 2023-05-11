@@ -18,7 +18,7 @@ creating a blogr landing page project
 
 ## Live View
 
-[Blogr-Landing-page]
+[Blogr-Landing-page](https://aquamarine-ganache-500d9d.netlify.app/)
 
 👤 **Author1**
 
